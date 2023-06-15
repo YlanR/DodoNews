@@ -89,7 +89,6 @@ $total = count($economia);
 
 <?php } ?>
    
- 
 
 </section>
    <!-- Banner JavaTech -->
